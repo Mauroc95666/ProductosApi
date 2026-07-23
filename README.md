@@ -34,7 +34,7 @@ En `appsettings.json`:
   </tr>
   <tr>
     <td><img src="Pruebas/assets/Buscar.png" alt="GET Listado de Productos" width="100%"/></td>
-    <td><img src="docs/img/Post-prueba.png" alt="POST Crear Producto" width="100%"/></td>
+    <td><img src="Pruebas/assets/Buscar.png" alt="POST Crear Producto" width="100%"/></td>
   </tr>
   <tr>
     <td>Consulta general <code>200 OK</code> retornando el catálogo completo en formato JSON.</td>
