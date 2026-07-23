@@ -25,7 +25,7 @@ En `appsettings.json`:
 
 ```json
 "Server=Macrosboy\\SQL_DEV;Database=ProductosDB;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=true"
-
+```
 
 <table>
   <tr>
