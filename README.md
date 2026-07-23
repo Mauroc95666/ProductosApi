@@ -30,8 +30,8 @@ En `appsettings.json`:
 <table>
 
   <tr>
-    <td><img src="Pruebas/assets/Buscar.png" alt="GET Listado de Productos" width="100%"/></td>
-    <td><img src="Pruebas/assets/DeleteSQL.png" alt="POST Crear Producto" width="100%"/></td>
+    <td><img src="Pruebas/assets/Buscar.png" alt="" width="100%"/></td>
+    <td><img src="Pruebas/assets/DeleteSQL.png" alt="" width="100%"/></td>
   </tr>
  
  
