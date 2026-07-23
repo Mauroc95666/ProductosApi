@@ -27,10 +27,13 @@ En `appsettings.json`:
 "Server=Macrosboy\\SQL_DEV;Database=ProductosDB;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=true"
 
 
-ProductosApi/
-├── assets/
-│   └── Buscar.png   <-- Tu imagen aquí
-├── README.md
-└── ... (demás archivos del proyecto)
+![Buscar](Pruebas/assets/Buscar.png)
+![Get SQL](Pruebas/assets/GetSQL.png)
+![Get Swagger](Pruebas/assets/GetSwagger.png)
+![Post Swagger](Pruebas/assets/PostSwagger.png)
+![Put SQL](Pruebas/assets/PutSQL.png)
+![Put Swagger](Pruebas/assets/PutSwagger.png)
+![Delete SQL](Pruebas/assets/DeleteSQL.png)
+![Delete Swagger](Pruebas/assets/DeleteSwagger.png)
 `
 
