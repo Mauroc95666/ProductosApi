@@ -25,5 +25,12 @@ En `appsettings.json`:
 
 ```json
 "Server=Macrosboy\\SQL_DEV;Database=ProductosDB;Trusted_Connection=True;TrustServerCertificate=True;MultipleActiveResultSets=true"
+
+
+ProductosApi/
+├── assets/
+│   └── Buscar.png   <-- Tu imagen aquí
+├── README.md
+└── ... (demás archivos del proyecto)
 `
 
