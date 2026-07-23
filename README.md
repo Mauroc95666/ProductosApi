@@ -28,31 +28,19 @@ En `appsettings.json`:
 ```
 
 <table>
-  <tr>
-    <td align="center" width="50%"><b>01. GET — Listar Todos los Productos</b></td>
-    <td align="center" width="50%"><b>02. POST — Registrar Nuevo Producto</b></td>
-  </tr>
+
   <tr>
     <td><img src="Pruebas/assets/Buscar.png" alt="GET Listado de Productos" width="100%"/></td>
     <td><img src="Pruebas/assets/DeleteSQL.png" alt="POST Crear Producto" width="100%"/></td>
   </tr>
+ 
+ 
   <tr>
-    <td>Consulta general <code>200 OK</code> retornando el catálogo completo en formato JSON.</td>
-    <td>Registro exitoso <code>201 Created</code> agregando un nuevo producto ("Audífonos Gamer").</td>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><b>03. GET por ID — Consultar Registro Específico</b></td>
-    <td align="center" width="50%"><b>04. GET por Nombre — Búsqueda de Productos</b></td>
-  </tr>
-  <tr>
-    <td><img src="Pruebas/assets/DeleteSwagger.png" alt="GET Producto por ID" width="100%"/></td>
-    <td><img src="Pruebas/assets/GetSQL.png" alt="GET Buscar por Nombre" width="100%"/></td>
+    <td><img src="Pruebas/assets/DeleteSwagger.png" alt="" width="100%"/></td>
+    <td><img src="Pruebas/assets/GetSQL.png" alt="" width="100%"/></td>
   </tr>
   
-  <tr>
-    <td align="center" width="50%"><b>05. PUT — Actualizar Datos de Producto</b></td>
-    <td align="center" width="50%"><b>06. GET por ID — Verificar Modificación</b></td>
-  </tr>
+  
   <tr>
     <td><img src="Pruebas/assets/GetSwagger.png" alt="" width="100%"/></td>
     <td><img src="Pruebas/assets/PostSwagger.png" alt="" width="100%"/></td>
@@ -63,10 +51,7 @@ En `appsettings.json`:
     <td><img src="Pruebas/assets/PutSQL.png" alt="" width="100%"/></td>
     <td><img src="Pruebas/assets/PutSwagger.png" alt="" width="100%"/></td>
   </tr>
-  <tr>
-    <td>Eliminación exitosa <code>204 No Content</code> del registro con ID 1.</td>
-    <td>Respuesta controlada <code>404 Not Found</code> confirmando que el ID 1 ya no existe.</td>
-  </tr>
+  
 </table>
 
 
